@@ -1,0 +1,12 @@
+E:\Шаг\.NET Framework\Workspace\DoubleLinkedList\DoubleLinkedList\obj\Debug\DoubleLinkedList.csprojResolveAssemblyReference.cache
+E:\Шаг\.NET Framework\Workspace\DoubleLinkedList\DoubleLinkedList\bin\Debug\DoubleLinkedList.exe.config
+E:\Шаг\.NET Framework\Workspace\DoubleLinkedList\DoubleLinkedList\bin\Debug\DoubleLinkedList.exe
+E:\Шаг\.NET Framework\Workspace\DoubleLinkedList\DoubleLinkedList\bin\Debug\DoubleLinkedList.pdb
+E:\Шаг\.NET Framework\Workspace\DoubleLinkedList\DoubleLinkedList\obj\Debug\DoubleLinkedList.exe
+E:\Шаг\.NET Framework\Workspace\DoubleLinkedList\DoubleLinkedList\obj\Debug\DoubleLinkedList.pdb
+F:\Шаг\.NET Framework\Workspace\DoubleLinkedList\DoubleLinkedList\bin\Debug\DoubleLinkedList.exe.config
+F:\Шаг\.NET Framework\Workspace\DoubleLinkedList\DoubleLinkedList\obj\Debug\DoubleLinkedList.exe
+F:\Шаг\.NET Framework\Workspace\DoubleLinkedList\DoubleLinkedList\obj\Debug\DoubleLinkedList.pdb
+F:\Шаг\.NET Framework\Workspace\DoubleLinkedList\DoubleLinkedList\obj\Debug\DoubleLinkedList.csprojResolveAssemblyReference.cache
+F:\Шаг\.NET Framework\Workspace\DoubleLinkedList\DoubleLinkedList\bin\Debug\DoubleLinkedList.exe
+F:\Шаг\.NET Framework\Workspace\DoubleLinkedList\DoubleLinkedList\bin\Debug\DoubleLinkedList.pdb
