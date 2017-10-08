@@ -23,8 +23,8 @@ namespace DoubleLinkedList
             doubleLinkedList.PushBack(62);
             doubleLinkedList.PushBack(83);
             doubleLinkedList.PushBack(74);
-            //Console.WriteLine("Value: {0}", doubleLinkedList.Last.Value);
-            //Console.WriteLine("Count: {0}", doubleLinkedList.Count);
+            Console.WriteLine("Value: {0}", doubleLinkedList.Last.Value);
+            Console.WriteLine("Count: {0}", doubleLinkedList.Count);
             foreach (var item in doubleLinkedList)
             {
                 
