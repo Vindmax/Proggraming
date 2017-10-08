@@ -68,7 +68,8 @@ namespace DoubleLinkedList
                 Node<T> newNode = new Node<T>(value);
                 if (_first == null)
                 {
-
+                    _first = newNode;
+                    _last = newNode;
                 }
                 else
                 {
